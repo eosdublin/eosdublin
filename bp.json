@@ -1,0 +1,55 @@
+{
+  "producer_account_name": "theeosdublin",
+  "producer_public_key": "EOS5Vt5BVbL7SUxSzBa7aGtYYnFBrUp4KHSgXiqHyQfGP72GW6EnY",
+  "org": {
+    "candidate_name": "EOS Dublin",
+    "website": "https://eosdublin.com",
+    "code_of_conduct":"https://www.eosdublin.com/values/",
+    "email":"hello@eosdublin.com",
+    "branding":{
+      "logo_256":"https://github.com/eosdublin/eosdublin/raw/master/images/logo_light_256.png",
+      "logo_1024":"https://github.com/eosdublin/eosdublin/raw/master/images/logo_light_1024.png",
+      "logo_svg":"https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/logo_light.svg"
+    },
+    "location": {
+      "name": "Dublin",
+      "country": "Ireland",
+      "latitude": 53.3498,
+      "longitude": -6.2603
+    },
+    "social": {
+      "steemit": "steemit.com/@eosdublin",
+      "twitter": "twitter.com/eosdublin",
+      "github": "github.com/eosdublin",
+      "reddit": "www.reddit.com/user/EOSDublin/",
+      "keybase": "keybase.io/eosdublin",
+      "telegram": "t.me/eosdublin"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "latitude": 53.3498,
+        "longitude": -6.2603
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "api1.eosdublin.io",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "Dublin",
+        "country": "Ireland",
+        "latitude": 53.3498,
+        "longitude": -6.2603
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "api2.eosdublin.io",
+      "ssl_endpoint": ""
+    }
+  ]
+}
